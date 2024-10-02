@@ -1,0 +1,11 @@
+{
+    "posetext_model_bedlamscript": "experiments/pretrained_models/posetext_model_bedlamscript/checkpoint_release.pth",
+    "posevae_model_bedlamscript": "experiments/pretrained_models/posevae_model_bedlamscript/checkpoint_release.pth",
+    "pairtext_model_ft_bedlamfix_posefix": "experiments/pretrained_models/pairtext_model_ft_bedlamfix_posefix/checkpoint_release.pth",
+    "poseembroider_model_bedlamscript": "experiments/pretrained_models/poseembroider_model_bedlamscript/checkpoint_release_noencoderweights.pth",
+    "aligner_model_bedlamscript": "experiments/pretrained_models/aligner_model_bedlamscript/checkpoint_release_noencoderweights.pth",
+    "instructgen_model_poseembroider_bedlamfix_posefix": "experiments/pretrained_models/instructgen_model_poseembroider_bedlamfix_posefix/checkpoint_release.pth",
+    "instructgen_model_aligner_bedlamfix_posefix": "experiments/pretrained_models/instructgen_model_aligner_bedlamfix_posefix/checkpoint_release.pth",
+    "hpsestimator_model_poseembroider_bedlamscript": "experiments/pretrained_models/hpsestimator_model_poseembroider_bedlamscript/checkpoint_release.pth",
+    "hpsestimator_model_aligner_bedlamscript": "experiments/pretrained_models/hpsestimator_model_aligner_bedlamscript/checkpoint_release.pth"
+}
